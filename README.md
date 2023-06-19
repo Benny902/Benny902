@@ -24,18 +24,18 @@
 <h3 align="left">Projects:</h3>
 <p align="left"> 
   
-- Latest project using MERN (MongoDB, Express, React, Node) : https://github.com/Benny902/WorkoutPartnerFE
+- Latest project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/WorkoutPartnerFE
 https://workoutpartners.herokuapp.com
   
-- Vehicle dealership project in Java, with Gui and Design Patterns, Using advanced principles of object-oriented programming and more : https://github.com/Benny902/vehicle-project-java
+- Vehicle dealership project in <b>Java</b>, with Gui and Design Patterns, Using advanced principles of <b>object-oriented programming</b> and more : https://github.com/Benny902/vehicle-project-java
   
-- Simple Chat in Python - Communication within a P2P network using tcp protocol with sockets and threading : https://github.com/Benny902/tcpClientServer
+- Simple Chat in <b>Python</b> - Communication within a P2P network using tcp protocol with sockets and threading : https://github.com/Benny902/tcpClientServer
   
-- Simulation of a car wash in Linux C language with threads, semaphores, memory, signals, ipc and more https://github.com/Benny902/carWashSimulation
+- Simulation of a car wash in Linux <b>C language</b> with threads, semaphores, memory, signals, ipc and more https://github.com/Benny902/carWashSimulation
   
-- A responsive, content-heavy, multiple pages website using Javascript, HTML & CSS for a crypto project: https://github.com/Benny902/ProXtoken
+- A responsive, content-heavy, multiple pages website using <b>Javascript, HTML & CSS</b> for a crypto project: https://github.com/Benny902/ProXtoken
   
-- A responsive dashboard app with blockchain API using React : https://github.com/Benny902/proxdapp
+- A responsive dashboard app with blockchain API using <b>React</b> : https://github.com/Benny902/proxdapp
   
 - All of my projects are available at [https://github.com/Benny902?tab=repositories](https://github.com/Benny902?tab=repositories)
 </p>
