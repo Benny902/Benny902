@@ -23,8 +23,15 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left"> 
+
+
+- Latest project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/tari
+webapp is live, main page for the customers: https://taritari.onrender.com ,
+page for collectors: https://taritari.onrender.com/collector , and page for the manager: https://taritari.onrender.com/manager
+This web app solves the manager's problem of needing to deal with the orders on phone, and directing each order to the collectors (those who prepare the orders). on the app, the customer submits his order, and all the orders are being delivered to the collectors page, which there they have options to view all the orders and also mark/unmark as done/minimize/maximize etc. made to improve efficiency in the work place.
+
   
-- Latest project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/WorkoutPartnerFE
+- graduation project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/WorkoutPartnerFE
 https://workoutpartners.herokuapp.com
   
 - Vehicle dealership project in <b>Java</b>, with Gui and Design Patterns, Using advanced principles of <b>object-oriented programming</b> and more : https://github.com/Benny902/vehicle-project-java
