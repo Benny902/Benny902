@@ -29,9 +29,7 @@
 webapp is live, main page for the customers: https://taritari.onrender.com ,  <br>
 a page for collectors: https://taritari.onrender.com/collector , and a page for the manager: https://taritari.onrender.com/manager  .<br>
 This web app solves the manager's problem of needing to deal with the orders on phone, and directing each order to the collectors (those who prepare the orders).  <br>
-on the app, the customer submits his order, and all the orders are being delivered to the collectors page, which there they have options to view all the orders and also mark/unmark as  done/minimize/maximize etc. made to improve efficiency in the work place.
 
-  
 - WorkOut Partner - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/WorkoutPartnerFE
 https://workoutpartners.herokuapp.com
   
