@@ -26,8 +26,9 @@
 
 
 - TariTari - web app for a real business. my latest project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/tari <br>
-webapp is live, main page for the customers: https://taritari.onrender.com ,  <br>
-a page for collectors: https://taritari.onrender.com/collector , and a page for the manager: https://taritari.onrender.com/manager  .<br>
+webapp is deployed, main page for the customers: https://tari-tari-5c1910427284.herokuapp.com , <br>
+(the current database is for testing, feel free to add/delete orders) <br>
+a page for collectors: https://tari-tari-5c1910427284.herokuapp.com/collector , and a page for the manager: https://tari-tari-5c1910427284.herokuapp.com/manager . <br>
 This web app solves the manager's problem of needing to deal with the orders on phone, and directing each order to the collectors (those who prepare the orders).  <br>
 
 - WorkOut Partner - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/WorkoutPartner <br>
