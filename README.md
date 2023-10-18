@@ -32,7 +32,7 @@ a page for collectors: https://tari-tari-5c1910427284.herokuapp.com/collector , 
 This web app solves the manager's problem of needing to deal with the orders on phone, and directing each order to the collectors (those who prepare the orders).  <br>
 
 - WorkOut Partner - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/WorkoutPartner <br>
-https://workoutpartners.herokuapp.com
+https://workoutpartners.herokuapp.com <br> project presentation video: https://www.youtube.com/watch?v=ZkIkzOGMfUU
   
 - Vehicle dealership project in <b>Java</b>, with Gui and Design Patterns, Using advanced principles of <b>object-oriented programming</b> and more : https://github.com/Benny902/vehicle-project-java
   
