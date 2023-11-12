@@ -14,9 +14,8 @@
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   
-- (Proficient): C, C++, Java, Python, JavaScript, HTML, CSS, MERN Stack
-  
-- (Familiar): C#, PHP, SQL, Solidity, 
+C, C++, Java, Python, SQL, JavaScript ES6, HTML5, Css3, React, NodeJs, Express,
+MongoDB, Firebase, State Management, OOP, Design Patterns, git, CI/CD.
   
 </p>
 
