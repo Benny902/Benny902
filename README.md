@@ -14,8 +14,8 @@
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   
-C, C++, Java, Python, SQL, JavaScript ES6, HTML5, Css3, React, NodeJs, Express,
-MongoDB, Firebase, State Management, OOP, Design Patterns, git, CI/CD.
+<b>C, C++, Java, Python, SQL, JavaScript ES6, HTML5, Css3, React, NodeJs, Express,
+MongoDB, Firebase, State Management, OOP, Design Patterns, git, CI/CD.</b>
   
 </p>
 
