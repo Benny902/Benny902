@@ -10,6 +10,12 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="redux" width="18" height="18"/></a>  &nbsp;&nbsp;Connect with me [https://linkedin.com/in/bennyshalom](https://linkedin.com/in/bennyshalom) 
 
+<h3 align="left">Portfolio Website: https://benny902.github.io/myportfolio/</h3>
+<p align="left"> 
+
+
+- TariTari -
+
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
