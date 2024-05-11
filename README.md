@@ -1,6 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*YZ2fsT9k1CmlMil-Fda0Zg.png)
+<!-- ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*YZ2fsT9k1CmlMil-Fda0Zg.png) -->
 <h1 align="center">Hi 👋, I'm Benny Shalom</h1>
-<h3 align="center">A passionate Full Stack Developer with B.Sc in Software Engineering</h3>
+<h3 align="center">A passionate Developer with B.Sc in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Benny902&label=Profile%20views&color=0e75b6&style=flat" alt="Benny902" /></p>
 
