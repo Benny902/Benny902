@@ -37,7 +37,7 @@ webapp is deployed, main page for the customers: [demo](https://tari-tari-5c1910
 (the current database is for testing, feel free to add/delete orders) <br>
 This web app solves the manager's problem of needing to deal with the orders on phone, and directing each order to the collectors (those who prepare the orders).  <br>
 
-- [WorkOut Partner](https://github.com/Benny902/WorkoutPartner) - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b>  <br>
+- [WorkOut Partner](https://github.com/Benny902/WorkoutPartner) - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b> : 
 [demo](https://workoutpartners.herokuapp.com) <br> project presentation video: https://www.youtube.com/watch?v=ZkIkzOGMfUU
   
 - [Vehicle dealership](https://github.com/Benny902/vehicle-project-java) - project in <b>Java</b>, with Gui and Design Patterns, Using advanced principles of <b>object-oriented programming</b> and more
