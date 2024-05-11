@@ -18,9 +18,9 @@
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   
-<b>Programming languages / Frameworks:</b> C, C++, Java, C#, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Express.js.
-<b>Tools:</b> OOP (Object Oriented Programming), Design Patterns, git, CI/CD, Docker (Basics).
-<b>Database:</b> FireBase, MongoDB, PostgreSQL.
+<b>Programming languages / Frameworks:</b> C, C++, Java, C#, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Express.js.<br>
+<b>Tools:</b> OOP (Object Oriented Programming), Design Patterns, git, CI/CD, Docker (Basics).<br>
+<b>Database:</b> FireBase, MongoDB, PostgreSQL.<br>
 
   
 </p>
