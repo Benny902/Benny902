@@ -18,8 +18,10 @@
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   
-<b>C, C++, Java, Python, SQL, JavaScript ES6, HTML5, Css3, React, NodeJs, Express,
-MongoDB, Firebase, State Management, OOP, Design Patterns, git, CI/CD.</b>
+<b>Programming languages / Frameworks:</b> C, C++, Java, C#, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Express.js.
+<b>Tools:</b> OOP (Object Oriented Programming), Design Patterns, git, CI/CD, Docker (Basics).
+<b>Database:</b> FireBase, MongoDB, PostgreSQL.
+
   
 </p>
 
@@ -27,25 +29,25 @@ MongoDB, Firebase, State Management, OOP, Design Patterns, git, CI/CD.</b>
 <h3 align="left">Projects:</h3>
 <p align="left"> 
 
+- [PythonYouTube](https://github.com/Benny902/pythonYouTube) - Python Flask web app for downloading YouTube audio or video by entering the link.
+deployed on heroku: [demo](https://flaskyoutube-b4d7fccba6a3.herokuapp.com/)
 
-- TariTari - web app for a real business. my latest project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/tari <br>
-webapp is deployed, main page for the customers: https://tari-tari-5c1910427284.herokuapp.com , <br>
+- [TariTari](https://github.com/Benny902/tari) - web app for a real business. my latest project using <b>MERN (MongoDB, Express, React, Node)</b>  <br>
+webapp is deployed, main page for the customers: [demo](https://tari-tari-5c1910427284.herokuapp.com) , <br>
 (the current database is for testing, feel free to add/delete orders) <br>
-a page for collectors: https://tari-tari-5c1910427284.herokuapp.com/collector , and a page for the manager: https://tari-tari-5c1910427284.herokuapp.com/manager . <br>
+a page for collectors: [demo](https://tari-tari-5c1910427284.herokuapp.com/collector) , and a page for the manager: [demo](https://tari-tari-5c1910427284.herokuapp.com/manager) . <br>
 This web app solves the manager's problem of needing to deal with the orders on phone, and directing each order to the collectors (those who prepare the orders).  <br>
 
-- WorkOut Partner - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b> : https://github.com/Benny902/WorkoutPartner <br>
-https://workoutpartners.herokuapp.com <br> project presentation video: https://www.youtube.com/watch?v=ZkIkzOGMfUU
+- [WorkOut Partner](https://github.com/Benny902/WorkoutPartner) - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b>  <br>
+[demo](https://workoutpartners.herokuapp.com) <br> project presentation video: https://www.youtube.com/watch?v=ZkIkzOGMfUU
   
-- Vehicle dealership project in <b>Java</b>, with Gui and Design Patterns, Using advanced principles of <b>object-oriented programming</b> and more : https://github.com/Benny902/vehicle-project-java
+- [Vehicle dealership](https://github.com/Benny902/vehicle-project-java) - project in <b>Java</b>, with Gui and Design Patterns, Using advanced principles of <b>object-oriented programming</b> and more
 
-- A responsive dashboard app with blockchain API using <b>React</b> : https://github.com/Benny902/proxdapp
-
-- A responsive, content-heavy, multiple pages website using <b>Javascript, HTML & CSS</b> for a crypto project: https://github.com/Benny902/ProXtoken
+- [ProXdapp](https://github.com/Benny902/proxdapp) - A responsive dashboard app with blockchain API using <b>React</b> : [demo](https://benny902.github.io/proxdapp/)
   
-- Simple Chat in <b>Python</b> - Communication within a P2P network using tcp protocol with sockets and threading : https://github.com/Benny902/tcpClientServer
+- [Simple Chat](https://github.com/Benny902/tcpClientServer) in <b>Python</b> - Communication within a P2P network using tcp protocol with sockets and threading 
   
-- Simulation of a car wash in Linux <b>C language</b> with threads, semaphores, memory, signals, ipc and more https://github.com/Benny902/carWashSimulation
+- [Simulation of a car wash](https://github.com/Benny902/carWashSimulation) in Linux <b>C language</b> with threads, semaphores, memory, signals, ipc and more 
   
 - All of my projects are available at [https://github.com/Benny902?tab=repositories](https://github.com/Benny902?tab=repositories)
 </p>
