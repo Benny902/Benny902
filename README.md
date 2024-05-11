@@ -34,7 +34,7 @@ deployed on heroku: [demo](https://flaskyoutube-b4d7fccba6a3.herokuapp.com/)
 
 - [TariTari](https://github.com/Benny902/tari) - web app for a real business. my latest project using <b>MERN (MongoDB, Express, React, Node)</b>  <br>
 webapp is deployed, main page for the customers: [demo](https://tari-tari-5c1910427284.herokuapp.com) , a page for collectors: [demo](https://tari-tari-5c1910427284.herokuapp.com/collector) , and a page for the manager: [demo](https://tari-tari-5c1910427284.herokuapp.com/manager) . <br>
-(the current database is for testing, feel free to add/delete orders) <br>
+(database in the demo is for testing, feel free to add/delete orders) <br>
 This web app solves the manager's problem of needing to deal with the orders on phone, and directing each order to the collectors (those who prepare the orders).  <br>
 
 - [WorkOut Partner](https://github.com/Benny902/WorkoutPartner) - Graduation project using <b>MERN (MongoDB, Express, React, Node)</b> : 
