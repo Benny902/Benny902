@@ -29,6 +29,10 @@
 <h3 align="left">Projects:</h3>
 <p align="left"> 
 
+- [News_ai](https://github.com/Benny902/news_ai) - Dockerized microservice-based application, written with Python Flask, that fetches most interesting news (by newsdata.io API) using user preferences and generates concise summaries using AI (Gemini API) and sends it to users via email.  
+  
+- [Dockerized-Microservices](https://github.com/Benny902/dockerized-microservices) - the goal of this project was to learn and show how three backend micro services communicate between each other regardless of their programming language, also including MongoDB as common database and integrating RabbitMQ for managing queues, and finally dockerize the project using docker-compose.  
+
 - [PythonYouTube](https://github.com/Benny902/pythonYouTube) - Python Flask web app for downloading YouTube audio or video by entering the link.
 deployed on heroku: [demo](https://flaskyoutube-b4d7fccba6a3.herokuapp.com/)
 
