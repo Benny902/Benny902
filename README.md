@@ -10,16 +10,12 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="redux" width="18" height="18"/></a>  &nbsp;&nbsp;Connect with me [https://linkedin.com/in/bennyshalom](https://linkedin.com/in/bennyshalom) 
 
-<h3 align="left">Portfolio Website: https://benny902.github.io/myportfolio/</h3>
-<p align="left"> 
-
-
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
   
 <b>Programming languages / Frameworks:</b> C, C++, Java, C#, Python, SQL, JavaScript, HTML, CSS, React, Node.js, Express.js.<br>
-<b>Tools:</b> OOP (Object Oriented Programming), Design Patterns, git, CI/CD, Docker (Basics).<br>
+<b>Tools:</b> OOP (Object Oriented Programming), Design Patterns, git, CI/CD, Containers (Docker + compose).<br>
 <b>Database:</b> FireBase, MongoDB, PostgreSQL.<br>
 
   
@@ -31,12 +27,9 @@
 
 - [News_ai](https://github.com/Benny902/news_ai) - Dockerized microservice-based application, written with Python Flask, that fetches most
 interesting news (by newsdata.io API) using user preferences and generates concise summaries using AI
-(Gemini API) and sends it to users via email, deployed to Google Cloud Platform. 
+(Gemini API) and sends it to users via email, deployed to Google Cloud Platform. [demo](http://34.171.227.51:4000/)
   
 - [Dockerized-Microservices](https://github.com/Benny902/dockerized-microservices) - the goal of this project was to learn and show how three backend micro services communicate between each other regardless of their programming language, also including MongoDB as common database and integrating RabbitMQ for managing queues, and finally dockerize the project using docker-compose.  
-
-- [PythonYouTube](https://github.com/Benny902/pythonYouTube) - Python Flask web app for downloading YouTube audio or video by entering the link.
-deployed on heroku: [demo](https://flaskyoutube-b4d7fccba6a3.herokuapp.com/)
 
 - [TariTari](https://github.com/Benny902/tari) - web app for a real business. my latest project using <b>MERN (MongoDB, Express, React, Node)</b>  <br>
 webapp is deployed, main page for the customers: [demo](https://tari-tari-5c1910427284.herokuapp.com) , a page for collectors: [demo](https://tari-tari-5c1910427284.herokuapp.com/collector) , and a page for the manager: [demo](https://tari-tari-5c1910427284.herokuapp.com/manager) . <br>
@@ -50,11 +43,9 @@ This web app solves the manager's problem of needing to deal with the orders on 
 
 - [ProXdapp](https://github.com/Benny902/proxdapp) - A responsive dashboard app with blockchain API using <b>React</b> : [demo](https://benny902.github.io/proxdapp/)
   
-- [Simple Chat](https://github.com/Benny902/tcpClientServer) in <b>Python</b> - Communication within a P2P network using tcp protocol with sockets and threading 
-  
 - [Simulation of a car wash](https://github.com/Benny902/carWashSimulation) in Linux <b>C language</b> with threads, semaphores, memory, signals, ipc and more 
   
-- All of my projects are available at [https://github.com/Benny902?tab=repositories](https://github.com/Benny902?tab=repositories)
+-  More projects can be found on my Github repositories: [https://github.com/Benny902?tab=repositories](https://github.com/Benny902?tab=repositories)
 </p>
 
 <hr>
